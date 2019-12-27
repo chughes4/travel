@@ -4,8 +4,6 @@
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-<<<<<<< HEAD
-=======
 
   &--medium {
     max-width: 976px;
@@ -15,5 +13,4 @@
     padding-left: 0;
     padding-right: 0;
   }
->>>>>>> e1d255ca27f7502d77a4733f37bf00ac75d896fd
 }
