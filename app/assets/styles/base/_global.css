@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     font-family: 'Roboto', sans-serif;
     color: #333;
@@ -7,14 +6,4 @@ body {
   img {
     max-width: 100%;
     height: auto;
-=======
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #333;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
->>>>>>> e1d255ca27f7502d77a4733f37bf00ac75d896fd
   }
